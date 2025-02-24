@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+maruhbackgen/__init__.py
+maruhbackgen/cli.py
+maruhbackgen/generator.py
+maruhbackgen/parser.py
+maruhbackgen/utils.py
+maruhbackgen.egg-info/PKG-INFO
+maruhbackgen.egg-info/SOURCES.txt
+maruhbackgen.egg-info/dependency_links.txt
+maruhbackgen.egg-info/entry_points.txt
+maruhbackgen.egg-info/requires.txt
+maruhbackgen.egg-info/top_level.txt
+tests/test.py

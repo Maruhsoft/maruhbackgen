@@ -1,0 +1,7 @@
+typer
+sqlparse
+cookiecutter
+fastapi
+uvicorn
+pydantic
+motor

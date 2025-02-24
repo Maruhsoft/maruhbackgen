@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: maruhbackgen
+Version: 1.0.0
+License-File: LICENSE
+Requires-Dist: typer
+Requires-Dist: sqlparse
+Requires-Dist: cookiecutter
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pydantic
+Requires-Dist: motor
+Dynamic: requires-dist
